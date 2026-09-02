@@ -1,0 +1,65 @@
+about:
+  description: Baystation's flavor of Space Station 13
+  license: AGPL-3.0
+  homepage: https://baystation.xyz
+  head: 11e031f
+  archived: false
+  latestVersion: v1.1
+  collectedAt: 2026-09-02T04:06:17Z
+timeline:
+  created: 2011-11-05
+  lastCommit: 2026-08-31
+  lastRelease: 2017-06-30
+popularity:
+  star: 426
+  watcher: 55
+  fork: 1676
+  release: 6
+  contributor: 524
+  pullRequest: 3339
+  issue: 13224
+language:
+  DM: 18122390
+  Go Template: 409629
+  HTML: 97456
+  JavaScript: 75079
+  CSS: 66722
+  Java: 63198
+  Python: 57766
+  Shell: 23089
+  Batchfile: 1499
+  Awk: 741
+totalLine: 18917569
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 7
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 14
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 35
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 73
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 70
+    openPR: 2
+    closedIssue: 2
+    openIssue: 1
+    commit: 166
+  last360d:
+    since: 2025-09-07
+    release: 0
+    mergedPR: 309
+    openPR: 3
+    closedIssue: 15
+    openIssue: 15
+    commit: 957
