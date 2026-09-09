@@ -7,7 +7,7 @@ Baystation's flavor of Space Station 13
 - **Latest release**: `v1.1` (2017-06-30)
 - **Last commit**: 2026-09-07
 - **License**: AGPL-3.0
-- **Stars**: 425 · **Forks**: 1679 · **Open issues**: 13224 · **Contributors**: 524
+- **Stars**: 425 · **Forks**: 1678 · **Open issues**: 13224 · **Contributors**: 524
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/Baystation12> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:10:10Z._
+_Last regenerated: 2026-09-09T19:19:26Z._
