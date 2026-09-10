@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1"
   latestRelease: "v1.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:10:02Z
+  collectedAt: 2026-09-10T17:09:22Z
 timeline:
   created: 2011-11-05
   lastCommit: 2026-09-07
@@ -20,7 +20,7 @@ popularity:
   fork: 1678
   release: 6
   contributor: 524
-  pullRequest: 22519
+  pullRequest: 22520
   issue: 13224
 language:
   DM: 18124277
@@ -39,7 +39,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 8
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 17
@@ -47,7 +47,7 @@ recent:
     since: 2026-07-12
     release: 0
     mergedPR: 18
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 37
@@ -55,7 +55,7 @@ recent:
     since: 2026-06-12
     release: 0
     mergedPR: 34
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 68
@@ -63,7 +63,7 @@ recent:
     since: 2026-03-14
     release: 0
     mergedPR: 68
-    openPR: 0
+    openPR: 1
     closedIssue: 2
     openIssue: 1
     commit: 156
@@ -71,7 +71,7 @@ recent:
     since: 2025-09-15
     release: 0
     mergedPR: 309
-    openPR: 1
+    openPR: 2
     closedIssue: 15
     openIssue: 15
     commit: 958
@@ -79,20 +79,20 @@ recent:
     since: 2024-09-20
     release: 0
     mergedPR: 789
-    openPR: 1
+    openPR: 2
     closedIssue: 54
     openIssue: 50
     commit: 2705
 total:
   release: 6
   mergedPR: 19182
-  openPR: 1
+  openPR: 2
   closedIssue: 13116
   openIssue: 108
   commit: 65723
 ---
 path: /home/runner/.x-repo/github.com/Baystation12/Baystation12
-collectedAt: 2026-09-10T05:12:57Z
+collectedAt: 2026-09-10T17:12:22Z
 loc:
   DreamMaker:
     code: 432231
