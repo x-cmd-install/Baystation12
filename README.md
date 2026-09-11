@@ -12,35 +12,7 @@ Baystation's flavor of Space Station 13
 x install Baystation12
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/Baystation12/Baystation12>
-- **Homepage**: <https://baystation.xyz>
-- **License**: AGPL-3.0
-
-## Release
-
-- **Latest**: `v1.1` (2017-06-30)
-- **Last commit**: 2026-09-07
-- **Published**: 2017-06-30T18:12:03Z
-
-## Popularity
-
-- **Stars**: 425 · **Forks**: 1,678 · **Open issues**: 13,224 · **Contributors**: 524
-
-## Totals (cumulative)
-
-- **Releases**: 6 · **Merged PRs**: 19182 · **Open PRs**: 1 · **Closed issues**: 13116 · **Open issues**: 108 · **Commits**: 65723
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 8 | 0 | 0 | 0 | 17 |
-| 90d | 2026-06-12 | 0 | 34 | 0 | 0 | 0 | 68 |
-| 360d | 2025-09-15 | 0 | 309 | 1 | 15 | 15 | 958 |
-
-## Code size
+## Code insight
 
 Total: **450,499** lines of code across **3914** files in the top 5 languages.
 
@@ -62,13 +34,43 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/Baystation12/Baystation12>
+- **Homepage**: <https://baystation.xyz>
+- **License**: AGPL-3.0
+
+## Release
+
+- **Latest**: `v1.1` (2017-06-30)
+- **Last commit**: 2026-09-07
+
+## Popularity
+
+- **Stars**: 425 · **Forks**: 1,678 · **Open issues**: 13,224 · **Contributors**: 524
+
+## Totals (cumulative)
+
+- **Releases**: 6 · **Merged PRs**: 19182 · **Open PRs**: 2 · **Closed issues**: 13116 · **Open issues**: 108 · **Commits**: 65723
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 6 | 1 | 0 | 0 | 17 |
+| last60d | 2026-07-13 | 0 | 18 | 1 | 0 | 0 | 37 |
+| 90d | 2026-06-13 | 0 | 34 | 1 | 0 | 0 | 68 |
+| last180d | 2026-03-15 | 0 | 68 | 1 | 2 | 1 | 156 |
+| 360d | 2025-09-16 | 0 | 309 | 2 | 15 | 15 | 958 |
+| last720d | 2024-09-21 | 0 | 789 | 2 | 54 | 50 | 2705 |
+
 ## Improve this data
 
 Install metadata for Baystation12 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `Baystation12` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/Baystation12.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/Baystation12.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:13:25Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:09:09Z._
