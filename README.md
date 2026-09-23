@@ -4,7 +4,7 @@
 
 Baystation's flavor of Space Station 13
 
-[![x-cmd/install — Baystation12 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Baystation12.svg)](https://x-cmd.com/install/Baystation12)
+[![x-cmd/install — Baystation12 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Baystation12.svg)](https://x-cmd.com/install/Baystation12)
 
 ## Install
 
@@ -31,8 +31,8 @@ Overall score: **5.5 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Security-Policy** (4/10) — security policy file detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 9 | 2 | 0 | 0 | 22 |
-| last60d | 2026-07-24 | 0 | 16 | 2 | 0 | 0 | 40 |
-| 90d | 2026-06-24 | 0 | 30 | 2 | 0 | 0 | 53 |
-| last180d | 2026-03-26 | 0 | 67 | 2 | 2 | 1 | 158 |
-| 360d | 2025-09-27 | 0 | 305 | 3 | 15 | 15 | 945 |
-| last720d | 2024-10-02 | 0 | 787 | 3 | 52 | 50 | 2692 |
+| 30d | 2026-08-24 | 0 | 9 | 2 | 0 | 0 | 22 |
+| last60d | 2026-07-25 | 0 | 16 | 2 | 0 | 0 | 40 |
+| 90d | 2026-06-25 | 0 | 28 | 2 | 0 | 0 | 53 |
+| last180d | 2026-03-27 | 0 | 66 | 2 | 2 | 1 | 158 |
+| 360d | 2025-09-28 | 0 | 304 | 3 | 15 | 15 | 945 |
+| last720d | 2024-10-03 | 0 | 786 | 3 | 52 | 50 | 2691 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:23:26Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:30:02Z._

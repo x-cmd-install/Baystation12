@@ -4,7 +4,7 @@
 
 Baystation's flavor of Space Station 13
 
-[![x-cmd/install — Baystation12 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Baystation12.svg?lang=zh)](https://x-cmd.com/install/Baystation12)
+[![x-cmd/install — Baystation12 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Baystation12.svg?lang=zh)](https://x-cmd.com/install/Baystation12)
 
 ## 安装
 
@@ -31,8 +31,8 @@ x install Baystation12
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Security-Policy** (4/10) — security policy file detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install Baystation12
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 9 | 2 | 0 | 0 | 22 |
-| last60d | 2026-07-24 | 0 | 16 | 2 | 0 | 0 | 40 |
-| 90d | 2026-06-24 | 0 | 30 | 2 | 0 | 0 | 53 |
-| last180d | 2026-03-26 | 0 | 67 | 2 | 2 | 1 | 158 |
-| 360d | 2025-09-27 | 0 | 305 | 3 | 15 | 15 | 945 |
-| last720d | 2024-10-02 | 0 | 787 | 3 | 52 | 50 | 2692 |
+| 30d | 2026-08-24 | 0 | 9 | 2 | 0 | 0 | 22 |
+| last60d | 2026-07-25 | 0 | 16 | 2 | 0 | 0 | 40 |
+| 90d | 2026-06-25 | 0 | 28 | 2 | 0 | 0 | 53 |
+| last180d | 2026-03-27 | 0 | 66 | 2 | 2 | 1 | 158 |
+| 360d | 2025-09-28 | 0 | 304 | 3 | 15 | 15 | 945 |
+| last720d | 2024-10-03 | 0 | 786 | 3 | 52 | 50 | 2691 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ Baystation12 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:23:27Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:30:03Z._
