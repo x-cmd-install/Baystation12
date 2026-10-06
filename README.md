@@ -14,7 +14,7 @@ x install Baystation12
 
 ## Code insight
 
-Total: **450,830** lines of code across **3915** files in the top 5 languages.
+Total: **450,837** lines of code across **3915** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **450,830** lines of code across **3915** files in the top 5 languages.
 | JavaScript | 10,949 | 2,105 | 2,383 | 24 |
 | Css | 2,491 | 134 | 370 | 17 |
 | Java | 1,450 | 39 | 229 | 11 |
-| Html | 1,310 | 20 | 51 | 12 |
+| Html | 1,317 | 20 | 52 | 12 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1` (2017-06-30)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-05
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 19189 · **Open PRs**: 2 · **Closed issues**: 13116 · **Open issues**: 107 · **Commits**: 65743
+- **Releases**: 6 · **Merged PRs**: 19190 · **Open PRs**: 1 · **Closed issues**: 13116 · **Open issues**: 107 · **Commits**: 65746
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 7 | 1 | 0 | 0 | 18 |
-| last60d | 2026-08-06 | 0 | 17 | 1 | 0 | 0 | 37 |
-| 90d | 2026-07-07 | 0 | 25 | 1 | 0 | 0 | 56 |
-| last180d | 2026-04-08 | 0 | 67 | 1 | 1 | 1 | 161 |
-| 360d | 2025-10-10 | 0 | 303 | 2 | 14 | 13 | 933 |
-| last720d | 2024-10-15 | 0 | 782 | 2 | 53 | 47 | 2678 |
+| 30d | 2026-09-06 | 0 | 8 | 0 | 0 | 0 | 21 |
+| last60d | 2026-08-07 | 0 | 18 | 0 | 0 | 0 | 40 |
+| 90d | 2026-07-08 | 0 | 26 | 0 | 0 | 0 | 59 |
+| last180d | 2026-04-09 | 0 | 68 | 0 | 1 | 1 | 164 |
+| 360d | 2025-10-11 | 0 | 303 | 1 | 14 | 13 | 936 |
+| last720d | 2024-10-16 | 0 | 783 | 1 | 53 | 47 | 2673 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:57:34Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:41:15Z._
