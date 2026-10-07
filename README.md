@@ -30,8 +30,8 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Security-Policy** (4/10) — security policy file detected
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 19190 · **Open PRs**: 1 · **Closed issues**: 13116 · **Open issues**: 107 · **Commits**: 65746
+- **Releases**: 6 · **Merged PRs**: 19190 · **Open PRs**: 2 · **Closed issues**: 13116 · **Open issues**: 107 · **Commits**: 65746
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 8 | 0 | 0 | 0 | 21 |
-| last60d | 2026-08-07 | 0 | 18 | 0 | 0 | 0 | 40 |
-| 90d | 2026-07-08 | 0 | 26 | 0 | 0 | 0 | 59 |
-| last180d | 2026-04-09 | 0 | 68 | 0 | 1 | 1 | 164 |
-| 360d | 2025-10-11 | 0 | 303 | 1 | 14 | 13 | 936 |
-| last720d | 2024-10-16 | 0 | 783 | 1 | 53 | 47 | 2673 |
+| 30d | 2026-09-07 | 0 | 8 | 1 | 0 | 0 | 21 |
+| last60d | 2026-08-08 | 0 | 18 | 1 | 0 | 0 | 40 |
+| 90d | 2026-07-09 | 0 | 26 | 1 | 0 | 0 | 59 |
+| last180d | 2026-04-10 | 0 | 68 | 1 | 1 | 1 | 164 |
+| 360d | 2025-10-12 | 0 | 303 | 2 | 14 | 13 | 936 |
+| last720d | 2024-10-17 | 0 | 783 | 2 | 53 | 47 | 2672 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:41:15Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:17:03Z._
