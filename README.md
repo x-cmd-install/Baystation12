@@ -30,8 +30,8 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Security-Policy** (4/10) — security policy file detected
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Security-Policy** (4/10) — security policy file detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1` (2017-06-30)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 19192 · **Open PRs**: 4 · **Closed issues**: 13116 · **Open issues**: 107 · **Commits**: 65750
+- **Releases**: 6 · **Merged PRs**: 19193 · **Open PRs**: 5 · **Closed issues**: 13116 · **Open issues**: 107 · **Commits**: 65752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 8 | 3 | 0 | 0 | 18 |
-| last60d | 2026-08-15 | 0 | 16 | 3 | 0 | 0 | 42 |
-| 90d | 2026-07-16 | 0 | 28 | 3 | 0 | 0 | 60 |
-| last180d | 2026-04-17 | 0 | 68 | 3 | 0 | 0 | 161 |
-| 360d | 2025-10-19 | 0 | 300 | 4 | 12 | 13 | 912 |
-| last720d | 2024-10-24 | 0 | 771 | 4 | 53 | 46 | 2655 |
+| 30d | 2026-09-15 | 0 | 8 | 4 | 0 | 0 | 20 |
+| last60d | 2026-08-16 | 0 | 17 | 4 | 0 | 0 | 44 |
+| 90d | 2026-07-17 | 0 | 28 | 4 | 0 | 0 | 62 |
+| last180d | 2026-04-18 | 0 | 68 | 4 | 0 | 0 | 163 |
+| 360d | 2025-10-20 | 0 | 300 | 5 | 12 | 13 | 914 |
+| last720d | 2024-10-25 | 0 | 767 | 5 | 49 | 46 | 2655 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:12:24Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:55:10Z._
