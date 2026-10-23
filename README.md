@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 18 | 7 | 0 | 0 | 48 |
-| last60d | 2026-08-23 | 0 | 28 | 7 | 0 | 0 | 73 |
-| 90d | 2026-07-24 | 0 | 35 | 7 | 0 | 0 | 91 |
-| last180d | 2026-04-25 | 0 | 78 | 7 | 0 | 0 | 182 |
-| 360d | 2025-10-27 | 0 | 308 | 8 | 12 | 11 | 938 |
-| last720d | 2024-11-01 | 0 | 754 | 8 | 50 | 45 | 2619 |
+| 30d | 2026-09-23 | 0 | 18 | 7 | 0 | 0 | 48 |
+| last60d | 2026-08-24 | 0 | 28 | 7 | 0 | 0 | 73 |
+| 90d | 2026-07-25 | 0 | 35 | 7 | 0 | 0 | 91 |
+| last180d | 2026-04-26 | 0 | 78 | 7 | 0 | 0 | 182 |
+| 360d | 2025-10-28 | 0 | 305 | 8 | 12 | 11 | 938 |
+| last720d | 2024-11-02 | 0 | 751 | 8 | 50 | 45 | 2594 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:06:14Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:09:45Z._
