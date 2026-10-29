@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 425 · **Forks**: 1,684 · **Open issues**: 13,223 · **Contributors**: 525
+- **Stars**: 425 · **Forks**: 1,685 · **Open issues**: 13,223 · **Contributors**: 525
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 19 | 10 | 0 | 0 | 49 |
-| last60d | 2026-08-29 | 0 | 29 | 10 | 0 | 0 | 70 |
-| 90d | 2026-07-30 | 0 | 37 | 10 | 0 | 0 | 87 |
-| last180d | 2026-05-01 | 0 | 76 | 10 | 0 | 0 | 180 |
-| 360d | 2025-11-02 | 0 | 305 | 11 | 12 | 11 | 919 |
-| last720d | 2024-11-07 | 0 | 740 | 11 | 50 | 45 | 2566 |
+| 30d | 2026-09-29 | 0 | 19 | 10 | 0 | 0 | 49 |
+| last60d | 2026-08-30 | 0 | 29 | 10 | 0 | 0 | 70 |
+| 90d | 2026-07-31 | 0 | 37 | 10 | 0 | 0 | 87 |
+| last180d | 2026-05-02 | 0 | 76 | 10 | 0 | 0 | 180 |
+| 360d | 2025-11-03 | 0 | 305 | 11 | 12 | 11 | 919 |
+| last720d | 2024-11-08 | 0 | 737 | 11 | 50 | 44 | 2547 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:07:23Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:09:06Z._
