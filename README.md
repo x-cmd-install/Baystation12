@@ -14,11 +14,11 @@ x install Baystation12
 
 ## Code insight
 
-Total: **451,211** lines of code across **3916** files in the top 5 languages.
+Total: **451,305** lines of code across **3916** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| DreamMaker | 432,742 | 26,677 | 84,384 | 3852 |
+| DreamMaker | 432,836 | 26,682 | 84,403 | 3852 |
 | JavaScript | 11,054 | 2,106 | 2,396 | 24 |
 | Css | 2,519 | 134 | 374 | 17 |
 | Java | 1,450 | 39 | 229 | 11 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1` (2017-06-30)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-08
 
 ## Popularity
 
-- **Stars**: 425 · **Forks**: 1,684 · **Open issues**: 13,223 · **Contributors**: 525
+- **Stars**: 425 · **Forks**: 1,682 · **Open issues**: 13,223 · **Contributors**: 525
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 19214 · **Open PRs**: 11 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65807
+- **Releases**: 6 · **Merged PRs**: 19216 · **Open PRs**: 10 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65812
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 22 | 8 | 0 | 0 | 47 |
-| last60d | 2026-09-09 | 0 | 32 | 10 | 0 | 0 | 77 |
-| 90d | 2026-08-10 | 0 | 41 | 10 | 0 | 0 | 97 |
-| last180d | 2026-05-12 | 0 | 76 | 10 | 0 | 0 | 178 |
-| 360d | 2025-11-13 | 0 | 299 | 11 | 12 | 11 | 840 |
-| last720d | 2024-11-18 | 0 | 724 | 11 | 49 | 41 | 2474 |
+| 30d | 2026-10-10 | 0 | 24 | 7 | 0 | 0 | 52 |
+| last60d | 2026-09-10 | 0 | 33 | 9 | 0 | 0 | 82 |
+| 90d | 2026-08-11 | 0 | 42 | 9 | 0 | 0 | 102 |
+| last180d | 2026-05-13 | 0 | 78 | 9 | 0 | 0 | 183 |
+| 360d | 2025-11-14 | 0 | 296 | 10 | 12 | 11 | 845 |
+| last720d | 2024-11-19 | 0 | 726 | 10 | 49 | 40 | 2474 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:21:16Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:53:08Z._
