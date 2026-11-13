@@ -14,15 +14,15 @@ x install Baystation12
 
 ## Code insight
 
-Total: **451,311** lines of code across **3916** files in the top 5 languages.
+Total: **451,350** lines of code across **3916** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| DreamMaker | 432,837 | 26,682 | 84,401 | 3852 |
+| DreamMaker | 432,870 | 26,704 | 84,407 | 3852 |
 | JavaScript | 11,054 | 2,106 | 2,396 | 24 |
 | Css | 2,519 | 134 | 374 | 17 |
 | Java | 1,450 | 39 | 229 | 11 |
-| Html | 1,371 | 20 | 52 | 12 |
+| Html | 1,377 | 20 | 53 | 12 |
 
 ## OpenSSF Scorecard
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1` (2017-06-30)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
-- **Stars**: 425 · **Forks**: 1,682 · **Open issues**: 13,223 · **Contributors**: 526
+- **Stars**: 425 · **Forks**: 1,681 · **Open issues**: 13,223 · **Contributors**: 526
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 19217 · **Open PRs**: 10 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65815
+- **Releases**: 6 · **Merged PRs**: 19219 · **Open PRs**: 9 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65820
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 24 | 7 | 0 | 0 | 55 |
-| last60d | 2026-09-13 | 0 | 34 | 9 | 0 | 0 | 85 |
-| 90d | 2026-08-14 | 0 | 41 | 9 | 0 | 0 | 105 |
-| last180d | 2026-05-16 | 0 | 78 | 9 | 0 | 0 | 186 |
-| 360d | 2025-11-17 | 0 | 286 | 10 | 11 | 11 | 848 |
-| last720d | 2024-11-22 | 0 | 725 | 10 | 49 | 40 | 2463 |
+| 30d | 2026-10-14 | 0 | 24 | 6 | 0 | 0 | 60 |
+| last60d | 2026-09-14 | 0 | 35 | 8 | 0 | 0 | 90 |
+| 90d | 2026-08-15 | 0 | 43 | 8 | 0 | 0 | 110 |
+| last180d | 2026-05-17 | 0 | 80 | 8 | 0 | 0 | 191 |
+| 360d | 2025-11-18 | 0 | 286 | 9 | 10 | 10 | 853 |
+| last720d | 2024-11-23 | 0 | 724 | 9 | 49 | 39 | 2468 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:42:08Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:11:29Z._
