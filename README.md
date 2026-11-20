@@ -14,7 +14,7 @@ x install Baystation12
 
 ## Code insight
 
-Total: **451,359** lines of code across **3916** files in the top 5 languages.
+Total: **451,364** lines of code across **3916** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **451,359** lines of code across **3916** files in the top 5 languages.
 | JavaScript | 11,054 | 2,106 | 2,396 | 24 |
 | Css | 2,519 | 134 | 374 | 17 |
 | Java | 1,450 | 39 | 229 | 11 |
-| Html | 1,383 | 20 | 54 | 12 |
+| Html | 1,388 | 20 | 55 | 12 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1` (2017-06-30)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-19
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 19220 · **Open PRs**: 13 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65823
+- **Releases**: 6 · **Merged PRs**: 19221 · **Open PRs**: 11 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65826
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 14 | 10 | 0 | 0 | 32 |
-| last60d | 2026-09-20 | 0 | 34 | 12 | 0 | 0 | 84 |
-| 90d | 2026-08-21 | 0 | 43 | 12 | 0 | 0 | 112 |
-| last180d | 2026-05-23 | 0 | 79 | 12 | 0 | 0 | 182 |
-| 360d | 2025-11-24 | 0 | 281 | 13 | 9 | 10 | 829 |
-| last720d | 2024-11-29 | 0 | 713 | 13 | 49 | 37 | 2439 |
+| 30d | 2026-10-21 | 0 | 13 | 7 | 0 | 0 | 35 |
+| last60d | 2026-09-21 | 0 | 34 | 10 | 0 | 0 | 87 |
+| 90d | 2026-08-22 | 0 | 44 | 10 | 0 | 0 | 115 |
+| last180d | 2026-05-24 | 0 | 79 | 10 | 0 | 0 | 185 |
+| 360d | 2025-11-25 | 0 | 279 | 11 | 9 | 10 | 832 |
+| last720d | 2024-11-30 | 0 | 713 | 11 | 49 | 37 | 2432 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:37:43Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:49:44Z._
