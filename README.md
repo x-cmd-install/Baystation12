@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 19223 · **Open PRs**: 9 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65833
+- **Releases**: 6 · **Merged PRs**: 19223 · **Open PRs**: 10 · **Closed issues**: 13118 · **Open issues**: 105 · **Commits**: 65833
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 13 | 4 | 0 | 0 | 34 |
-| last60d | 2026-09-24 | 0 | 36 | 8 | 0 | 0 | 90 |
-| 90d | 2026-08-25 | 0 | 45 | 8 | 0 | 0 | 114 |
-| last180d | 2026-05-27 | 0 | 81 | 8 | 0 | 0 | 191 |
-| 360d | 2025-11-28 | 0 | 277 | 9 | 8 | 10 | 796 |
-| last720d | 2024-12-03 | 0 | 711 | 9 | 49 | 37 | 2435 |
+| 30d | 2026-10-25 | 0 | 13 | 5 | 0 | 0 | 34 |
+| last60d | 2026-09-25 | 0 | 36 | 9 | 0 | 0 | 90 |
+| 90d | 2026-08-26 | 0 | 45 | 9 | 0 | 0 | 114 |
+| last180d | 2026-05-28 | 0 | 81 | 9 | 0 | 0 | 191 |
+| 360d | 2025-11-29 | 0 | 275 | 10 | 8 | 10 | 796 |
+| last720d | 2024-12-04 | 0 | 709 | 10 | 48 | 37 | 2431 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for Baystation12 lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:57:43Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:02:50Z._
